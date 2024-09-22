@@ -2,17 +2,17 @@
 
 In this project, I have used a dataset from Kaggle that pulls data from different online sites daily, to do EDA using Python to find the top 5 skills for a Data Analysts.
 
-Tools Used:
+**Tools Used**:
 Jupyter Notebook
 
-Libraries Used:
+**Libraries Used**:
 Pandas
 Numpy
 Matplotlib
 Seaborn
 ast
 
-Techniques Used:
+**Techniques Used**:
 Data Cleaning
 Data Reshaping
 Feature Engineering
